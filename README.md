@@ -1,2 +1,4 @@
 # modules-ipynb
-Workshop for Berkeley DS Modules on Jupyter notebook tips and tricks
+Workshop for the UC Berkeley Data Science Modules program, covering common Jupyter notebook packages and styling used to make modules.
+
+
